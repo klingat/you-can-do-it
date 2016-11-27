@@ -1,0 +1,61 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.redBackground {
+	background-color: #f76a76;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	text-align: center;
+	color: #fff;
+	margin-right: 1rem;
+	margin-left: 1rem;
+	font-size: 4rem;
+	font-family: 'Bungee';
+}
+
+.redBackground:hover {
+	background-color: #f43444;
+}
+
+html body{
+	background-color: #7bd5f8;
+}
+
+
+.centerCenter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.centerCenterCol {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.customFont {
+	font-family: "Bungee";
+	color: #fff;
+	text-align: center;
+}
+
+i:hover {
+	color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+
+
+
+
+
+
+
+
